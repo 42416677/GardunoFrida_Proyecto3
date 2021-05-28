@@ -1,0 +1,147 @@
+body{
+  background-color:#a63921;
+  margin: 0px;
+}
+
+h1{
+  color: #f8f8f8;
+  font-family: century gothic;
+  font-size: 40px;
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+  background-color:#242424;
+}
+
+#caradali{
+  width: 1372px;
+  height: 415px;
+  padding: 0px;
+  border: 0px;
+  margin: 0px;
+  background-image: url(caradali.jpg);
+}
+
+h2{
+  color: #fdff00;
+  font-family: century gothic;
+  font-size: 30px;
+  margin: 30px;
+}
+
+h3{
+  color: #d9d3b4;
+  background-color:#3698bf;
+  font-size: 65px;
+  font-family: century gothic;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 0px
+}
+h4{
+  color: #bca455;
+  background-color:#514a2e;
+  font-size: 65px;
+  font-family: century gothic;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 0px
+}
+
+p{ 
+color: 	#e2c20b;
+font-size: 25px;
+font-family: century gothic;
+margin: 50px;
+}
+
+nav{ 
+  text-align: center;
+  text-decoration: none;
+  border-radius: 25px;
+  padding: 1.5%;
+  background-color: #d97c28;
+  margin: 0px;
+}
+  a{ 
+      font-family: century gothic;
+     font-size: 35px;
+     font-weight: bold;
+     text-decoration: none;
+     color: #242424;
+      }
+a:hover{ 
+color:#e2c20b;
+}
+
+li{ font-family: century gothic;
+  font-size: 25px;
+  font-weight: bold;
+  color: #242424;
+}
+
+footer{ background-color: #e2c20b;
+  
+  font-family: century gothic;
+  font-size: 25px;
+  font-weight: bold;
+  color: #242424;
+}
+footer:hover{ 
+color:#242424;
+}
+
+
+img.sticky {
+position: sticky;
+top: 0;
+}
+
+
+
+
+
+.row {
+display: flex;
+flex-wrap: wrap;
+padding: 0 4px;
+}
+.column {
+flex: 50%;
+padding: 0 4px;
+}
+
+.column img {
+margin-top: 8px;
+vertical-align: middle;
+}
+
+.column {
+flex: 50%;
+padding: 0 4px;
+}
+
+.column img {
+margin-top: 8px;
+vertical-align: middle;
+}
+
+.img-ob {
+display: flex;
+margin: 100px 100px;
+}
+
+.img-ob img{
+display: flex;
+margin: 0px 20px 40px;
+height: 300px;
+width: 300px;
+border-radius: 20px;
+}
+
+
+
+
+
+
+
